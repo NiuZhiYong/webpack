@@ -1,0 +1,19 @@
+{
+  "name": "study5-with-pluging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runoob1.js",
+  "dependencies": {
+    "css": "^0.26.1",
+    "style": "^0.13.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "xxx":"./node_modules/.bin/webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
